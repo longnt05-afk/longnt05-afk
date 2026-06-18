@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=39FF88&center=true&vCenter=true&width=700&lines=SOC+Analyst+Intern+%7C+Information+Assurance;Threat+Detection+%26+Incident+Response;Building+Automated+SOC+%2F+SOAR+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=39FF88&center=true&vCenter=true&width=700&lines=SOC+Analyst+Tier+1+%7C+Information+Assurance;Threat+Detection+%26+Incident+Response;Building+Automated+SOC+%2F+SOAR+Pipelines" alt="Typing SVG" />
 
 </div>
 

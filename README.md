@@ -8,7 +8,7 @@
 
 ## 🛡️ About me
 
-Third-year Information Assurance student at FPT University with hands-on experience in SOC operations, malware analysis, and SIEM tooling. Passionate about threat detection, incident response, and building automated security workflows — currently looking for a SOC Analyst Intern role to apply these skills in a real-world security environment.
+Third-year Information Assurance student at FPT University with hands-on experience in SOC operations, malware analysis, and SIEM tooling. Passionate about threat detection, incident response, and building automated security workflows - currently looking for a SOC Analyst Intern role to apply these skills in a real-world security environment.
 
 <br>
 

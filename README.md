@@ -1,10 +1,12 @@
+<!-- SOC GitHub Profile V3: large logo tiles, networking fundamentals, and current security frameworks -->
+
 <div align="center">
 
 <h1>Nguyen Thanh Long</h1>
 
 <p><strong>SOC Analyst Intern · Information Assurance Student</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=39FF88&center=true&vCenter=true&width=820&lines=Threat+Detection+%7C+Incident+Response;SIEM+%2F+SOAR+Engineering+%7C+DFIR;Network+Forensics+%7C+Malware+Analysis" alt="SOC focus areas" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=39FF88&center=true&vCenter=true&width=900&lines=Threat+Detection+%7C+Incident+Response;SIEM+%2F+SOAR+Engineering+%7C+DFIR;Network+Forensics+%7C+Malware+Analysis" alt="SOC focus areas" />
 
 <br>
 
@@ -45,88 +47,162 @@ I am an **Information Assurance student at FPT University** focused on Security 
 
 ## 🧰 Security Toolkit
 
-Badges marked **Foundational** represent basic practical exposure. The remaining tools are used across labs, investigations, or security projects.
+Official open-source brand marks are used where available. Tools without a reusable brand mark use a consistent functional icon, so every entry remains visible and balanced. **Foundational** indicates basic practical exposure.
 
 ### SIEM & Log Management
 
-![Splunk Enterprise](https://img.shields.io/badge/Splunk_Enterprise-0D1117?style=flat-square&logo=splunk&logoColor=39FF88)
-![Splunk Universal Forwarder](https://img.shields.io/badge/Splunk_Universal_Forwarder-0D1117?style=flat-square&logo=splunk&logoColor=39FF88)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Foundational-238636?style=flat-square&logo=elasticsearch&logoColor=white&labelColor=0D1117)
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="https://api.iconify.design/simple-icons/splunk.svg?color=%2339FF88" width="64" height="64" alt="Splunk"><br><strong>Splunk Enterprise</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/simple-icons/splunk.svg?color=%2339FF88" width="64" height="64" alt="Splunk Universal Forwarder"><br><strong>Universal Forwarder</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/simple-icons/elasticsearch.svg?color=%2339FF88" width="64" height="64" alt="Elasticsearch"><br><strong>Elasticsearch</strong><br><em>Foundational</em></td>
+  </tr>
+</table>
 
 ### SOAR, Case Management & Threat Intelligence
 
-![DFIR-IRIS](https://img.shields.io/badge/DFIR--IRIS-0D1117?style=flat-square&logoColor=39FF88)
-![Splunk SOAR](https://img.shields.io/badge/Splunk_SOAR-Foundational-238636?style=flat-square&logo=splunk&logoColor=white&labelColor=0D1117)
-![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=39FF88)
-![MISP](https://img.shields.io/badge/MISP-0D1117?style=flat-square&logoColor=39FF88)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-0D1117?style=flat-square&logo=virustotal&logoColor=39FF88)
-![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-0D1117?style=flat-square&logoColor=39FF88)
-![ANY.RUN](https://img.shields.io/badge/ANY.RUN-0D1117?style=flat-square&logoColor=39FF88)
-![Hybrid Analysis](https://img.shields.io/badge/Hybrid_Analysis-0D1117?style=flat-square&logoColor=39FF88)
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/shield-search.svg?color=%2339FF88" width="64" height="64" alt="DFIR-IRIS"><br><strong>DFIR-IRIS</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/splunk.svg?color=%2339FF88" width="64" height="64" alt="Splunk SOAR"><br><strong>Splunk SOAR</strong><br><em>Foundational</em></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/n8n.svg?color=%2339FF88" width="64" height="64" alt="n8n"><br><strong>n8n</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/network-outline.svg?color=%2339FF88" width="64" height="64" alt="MISP"><br><strong>MISP</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/virustotal.svg?color=%2339FF88" width="64" height="64" alt="VirusTotal"><br><strong>VirusTotal</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/ip-network.svg?color=%2339FF88" width="64" height="64" alt="AbuseIPDB"><br><strong>AbuseIPDB</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/flask-outline.svg?color=%2339FF88" width="64" height="64" alt="ANY.RUN"><br><strong>ANY.RUN</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/flask-outline.svg?color=%2339FF88" width="64" height="64" alt="Hybrid Analysis"><br><strong>Hybrid Analysis</strong></td>
+  </tr>
+</table>
 
 ### Detection & Endpoint Security
 
-![LimaCharlie](https://img.shields.io/badge/LimaCharlie_EDR-0D1117?style=flat-square&logoColor=39FF88)
-![Sysmon](https://img.shields.io/badge/Sysmon-0D1117?style=flat-square&logo=windows&logoColor=39FF88)
-![Sigma](https://img.shields.io/badge/Sigma-0D1117?style=flat-square&logoColor=39FF88)
-![YARA](https://img.shields.io/badge/YARA-0D1117?style=flat-square&logoColor=39FF88)
-![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-0D1117?style=flat-square&logoColor=39FF88)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0D1117?style=flat-square&logoColor=39FF88)
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/shield-outline.svg?color=%2339FF88" width="64" height="64" alt="LimaCharlie EDR"><br><strong>LimaCharlie EDR</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/monitor-eye.svg?color=%2339FF88" width="64" height="64" alt="Sysmon"><br><strong>Sysmon</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/sigma.svg?color=%2339FF88" width="64" height="64" alt="Sigma"><br><strong>Sigma</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/file-search-outline.svg?color=%2339FF88" width="64" height="64" alt="YARA"><br><strong>YARA</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/atom.svg?color=%2339FF88" width="64" height="64" alt="Atomic Red Team"><br><strong>Atomic Red Team</strong></td>
+  </tr>
+</table>
+
+### Networking Fundamentals
+
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/network-outline.svg?color=%2339FF88" width="64" height="64" alt="TCP/IP"><br><strong>TCP/IP</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/layers-triple-outline.svg?color=%2339FF88" width="64" height="64" alt="OSI Model"><br><strong>OSI Model</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/dns.svg?color=%2339FF88" width="64" height="64" alt="DNS"><br><strong>DNS</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/router-network.svg?color=%2339FF88" width="64" height="64" alt="DHCP"><br><strong>DHCP</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/wall-fire.svg?color=%2339FF88" width="64" height="64" alt="Firewall"><br><strong>Firewall</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/shield-check-outline.svg?color=%2339FF88" width="64" height="64" alt="IDS/IPS"><br><strong>IDS/IPS</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/swap-horizontal.svg?color=%2339FF88" width="64" height="64" alt="NAT"><br><strong>NAT</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/lan.svg?color=%2339FF88" width="64" height="64" alt="VLAN"><br><strong>VLAN</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/routes.svg?color=%2339FF88" width="64" height="64" alt="Routing"><br><strong>Routing</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/swap-horizontal-bold.svg?color=%2339FF88" width="64" height="64" alt="Switching"><br><strong>Switching</strong></td>
+  </tr>
+</table>
+
+### Security Frameworks & Methodologies
+
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/matrix.svg?color=%2339FF88" width="64" height="64" alt="MITRE ATT&CK"><br><strong>MITRE ATT&amp;CK</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/link-variant.svg?color=%2339FF88" width="64" height="64" alt="Cyber Kill Chain"><br><strong>Cyber Kill Chain</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%2339FF88" width="64" height="64" alt="NIST CSF 2.0"><br><strong>NIST CSF 2.0</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/clipboard-text-outline.svg?color=%2339FF88" width="64" height="64" alt="NIST SP 800-61 Rev. 3"><br><strong>NIST SP 800-61 Rev. 3</strong></td>
+  </tr>
+</table>
 
 ### Network Security & Forensics
 
-![pfSense](https://img.shields.io/badge/pfSense-0D1117?style=flat-square&logoColor=39FF88)
-![Suricata](https://img.shields.io/badge/Suricata-0D1117?style=flat-square&logoColor=39FF88)
-![Zeek](https://img.shields.io/badge/Zeek-0D1117?style=flat-square&logo=zeek&logoColor=39FF88)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=39FF88)
-![NetworkMiner](https://img.shields.io/badge/NetworkMiner-0D1117?style=flat-square&logoColor=39FF88)
-![Zui](https://img.shields.io/badge/Zui-0D1117?style=flat-square&logoColor=39FF88)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logoColor=39FF88)
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/pfsense.svg?color=%2339FF88" width="64" height="64" alt="pfSense"><br><strong>pfSense</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/shield-alert-outline.svg?color=%2339FF88" width="64" height="64" alt="Suricata"><br><strong>Suricata</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/mdi/network-outline.svg?color=%2339FF88" width="64" height="64" alt="Zeek"><br><strong>Zeek</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/wireshark.svg?color=%2339FF88" width="64" height="64" alt="Wireshark"><br><strong>Wireshark</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/network-outline.svg?color=%2339FF88" width="64" height="64" alt="NetworkMiner"><br><strong>NetworkMiner</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/shield-search.svg?color=%2339FF88" width="64" height="64" alt="Zui"><br><strong>Zui</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/radar.svg?color=%2339FF88" width="64" height="64" alt="Nmap"><br><strong>Nmap</strong></td>
+  </tr>
+</table>
 
 ### Malware Analysis & Reverse Engineering
 
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-0D1117?style=flat-square&logoColor=39FF88)
-![Ghidra](https://img.shields.io/badge/Ghidra-0D1117?style=flat-square&logoColor=39FF88)
-![x32dbg/x64dbg](https://img.shields.io/badge/x32dbg_%2F_x64dbg-0D1117?style=flat-square&logoColor=39FF88)
-![Detect It Easy](https://img.shields.io/badge/Detect_It_Easy-0D1117?style=flat-square&logoColor=39FF88)
-![PE-bear](https://img.shields.io/badge/PE--bear-0D1117?style=flat-square&logoColor=39FF88)
-![PEStudio](https://img.shields.io/badge/PEStudio-0D1117?style=flat-square&logoColor=39FF88)
-![FLOSS](https://img.shields.io/badge/FLOSS-0D1117?style=flat-square&logoColor=39FF88)
-![Strings](https://img.shields.io/badge/Sysinternals_Strings-0D1117?style=flat-square&logo=windows&logoColor=39FF88)
-![Process Monitor](https://img.shields.io/badge/Process_Monitor-0D1117?style=flat-square&logo=windows&logoColor=39FF88)
-![Process Explorer](https://img.shields.io/badge/Process_Explorer-0D1117?style=flat-square&logo=windows&logoColor=39FF88)
-![FakeNet-NG](https://img.shields.io/badge/FakeNet--NG-0D1117?style=flat-square&logoColor=39FF88)
-![INetSim](https://img.shields.io/badge/INetSim-0D1117?style=flat-square&logoColor=39FF88)
-![CyberChef](https://img.shields.io/badge/CyberChef-0D1117?style=flat-square&logoColor=39FF88)
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/code-braces.svg?color=%2339FF88" width="64" height="64" alt="IDA Pro"><br><strong>IDA Pro</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/code-braces.svg?color=%2339FF88" width="64" height="64" alt="Ghidra"><br><strong>Ghidra</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/bug-outline.svg?color=%2339FF88" width="64" height="64" alt="x32dbg and x64dbg"><br><strong>x32dbg / x64dbg</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/file-eye-outline.svg?color=%2339FF88" width="64" height="64" alt="Detect It Easy"><br><strong>Detect It Easy</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/teddy-bear.svg?color=%2339FF88" width="64" height="64" alt="PE-bear"><br><strong>PE-bear</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/file-cog-outline.svg?color=%2339FF88" width="64" height="64" alt="PEStudio"><br><strong>PEStudio</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/text-search.svg?color=%2339FF88" width="64" height="64" alt="FLOSS"><br><strong>FLOSS</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/format-text.svg?color=%2339FF88" width="64" height="64" alt="Sysinternals Strings"><br><strong>Strings</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%2339FF88" width="64" height="64" alt="Process Monitor"><br><strong>Process Monitor</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/timeline-outline.svg?color=%2339FF88" width="64" height="64" alt="Process Explorer"><br><strong>Process Explorer</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/lan-disconnect.svg?color=%2339FF88" width="64" height="64" alt="FakeNet-NG"><br><strong>FakeNet-NG</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/web.svg?color=%2339FF88" width="64" height="64" alt="INetSim"><br><strong>INetSim</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/chef-hat.svg?color=%2339FF88" width="64" height="64" alt="CyberChef"><br><strong>CyberChef</strong></td>
+  </tr>
+</table>
 
 ### Digital Forensics
 
-![Volatility](https://img.shields.io/badge/Volatility_3-0D1117?style=flat-square&logoColor=39FF88)
-![Autopsy](https://img.shields.io/badge/Autopsy-0D1117?style=flat-square&logoColor=39FF88)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-0D1117?style=flat-square&logoColor=39FF88)
-![Registry Explorer](https://img.shields.io/badge/Registry_Explorer-0D1117?style=flat-square&logo=windows&logoColor=39FF88)
-![WinDbg](https://img.shields.io/badge/WinDbg-0D1117?style=flat-square&logo=windows&logoColor=39FF88)
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/memory.svg?color=%2339FF88" width="64" height="64" alt="Volatility 3"><br><strong>Volatility 3</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/folder-search-outline.svg?color=%2339FF88" width="64" height="64" alt="Autopsy"><br><strong>Autopsy</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/harddisk.svg?color=%2339FF88" width="64" height="64" alt="FTK Imager"><br><strong>FTK Imager</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/file-tree-outline.svg?color=%2339FF88" width="64" height="64" alt="Registry Explorer"><br><strong>Registry Explorer</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/bug-outline.svg?color=%2339FF88" width="64" height="64" alt="WinDbg"><br><strong>WinDbg</strong></td>
+  </tr>
+</table>
 
 ### Operating Systems & Security Platforms
 
-![Windows](https://img.shields.io/badge/Windows_%2F_Windows_Server-0D1117?style=flat-square&logo=windows11&logoColor=39FF88)
-![FLARE-VM](https://img.shields.io/badge/FLARE--VM-0D1117?style=flat-square&logo=windows&logoColor=39FF88)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=39FF88)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=39FF88)
-![CentOS](https://img.shields.io/badge/CentOS-0D1117?style=flat-square&logo=centos&logoColor=39FF88)
-![Security Onion](https://img.shields.io/badge/Security_Onion-0D1117?style=flat-square&logoColor=39FF88)
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/microsoft-windows.svg?color=%2339FF88" width="64" height="64" alt="Windows and Windows Server"><br><strong>Windows / Server</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/fire.svg?color=%2339FF88" width="64" height="64" alt="FLARE-VM"><br><strong>FLARE-VM</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/simple-icons/kalilinux.svg?color=%2339FF88" width="64" height="64" alt="Kali Linux"><br><strong>Kali Linux</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://api.iconify.design/simple-icons/ubuntu.svg?color=%2339FF88" width="64" height="64" alt="Ubuntu"><br><strong>Ubuntu</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/simple-icons/centos.svg?color=%2339FF88" width="64" height="64" alt="CentOS"><br><strong>CentOS</strong></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/mdi/layers-outline.svg?color=%2339FF88" width="64" height="64" alt="Security Onion"><br><strong>Security Onion</strong></td>
+  </tr>
+</table>
 
 ### Infrastructure, Automation & Scripting
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39FF88)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=39FF88)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=39FF88)
-![C/C++](https://img.shields.io/badge/C_%2F_C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=39FF88)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=39FF88)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=39FF88)
-![VMware](https://img.shields.io/badge/VMware_Workstation-0D1117?style=flat-square&logo=vmware&logoColor=39FF88)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=39FF88)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-0D1117?style=flat-square&logo=cloudflare&logoColor=39FF88)
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://api.iconify.design/simple-icons/python.svg?color=%2339FF88" width="64" height="64" alt="Python"><br><strong>Python</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/mdi/console-line.svg?color=%2339FF88" width="64" height="64" alt="PowerShell"><br><strong>PowerShell</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/simple-icons/gnubash.svg?color=%2339FF88" width="64" height="64" alt="Bash"><br><strong>Bash</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/simple-icons/cplusplus.svg?color=%2339FF88" width="64" height="64" alt="C and C++"><br><strong>C / C++</strong></td>
+    <td align="center" width="20%"><img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%2339FF88" width="64" height="64" alt="Java"><br><strong>Java</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/docker.svg?color=%2339FF88" width="64" height="64" alt="Docker"><br><strong>Docker</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/vmware.svg?color=%2339FF88" width="64" height="64" alt="VMware Workstation"><br><strong>VMware</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/git.svg?color=%2339FF88" width="64" height="64" alt="Git"><br><strong>Git</strong></td>
+    <td align="center" width="25%"><img src="https://api.iconify.design/simple-icons/cloudflare.svg?color=%2339FF88" width="64" height="64" alt="Cloudflare Tunnel"><br><strong>Cloudflare Tunnel</strong></td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Statistics
 

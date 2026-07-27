@@ -43,7 +43,6 @@ Driven **Information Assurance student at FPT University** equipped with hands-o
 | Project | What it demonstrates | Core technologies |
 |---|---|---|
 | [**SuperSOAR HomeLab**](https://github.com/longnt05-afk/SOAR_HomeLab) | Enterprise-inspired detection-to-response pipeline that centralizes security telemetry, normalizes and enriches detections, applies risk scoring and deduplication, and supports structured incident investigation. | Splunk Enterprise, LimaCharlie, Sysmon, Suricata, pfSense, DFIR-IRIS, MISP, VirusTotal |
-| [**pfSense & Suricata Security HomeLab**](https://github.com/longnt05-afk/HomeLab) | Segmented WAN/LAN/DMZ environment with least-privilege firewall policies, IDS/IPS monitoring, and attack simulations used to verify defensive controls. | pfSense, Suricata, Kali Linux, Nmap, VMware |
 
 ## 🧰 Security Toolkit
 

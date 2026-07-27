@@ -20,7 +20,7 @@
 
 ## 🛡️ About Me
 
-I am an **Information Assurance student at FPT University** focused on Security Operations, threat detection, and incident response. I build hands-on SOC environments that connect endpoint, network, firewall, IDS/IPS, and PowerShell telemetry to detection, enrichment, and case-management workflows.
+Driven **Information Assurance student at FPT University** equipped with hands-on skills in SOC monitoring, malware analysis, and incident investigation. Looking to secure a SOC Analyst Intern roleto apply threat detection expertise, optimize security operations, and develop into a long-term BlueTeam specialist.
 
 - 🔎 Investigating alerts across endpoint and network telemetry
 - 🧠 Building and tuning detections with SPL, Sigma, YARA, and MITRE ATT&CK
